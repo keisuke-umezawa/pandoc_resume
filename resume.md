@@ -1,49 +1,62 @@
 Keisuke Umezawa
-============
+================
 
 ----
 
 > Email: keisuke.umezawa[at]gmail.com \
-> Twitter: [@kmechann](https://twitter.com/kmechann) \
+> Twitter: [@kumezawa_](https://twitter.com/kumezawa_) \
 > Blog(ja): [Hatena Blog](http://kumechann.hatenablog.com/) \
 > Blog(en): [Medium](https://medium.com/@keisukeumezawa) \
 > GitHub: [github.com/keisuke-umezawa](https://github.com/keisuke-umezawa) \
-> Software Engineer / Data Science Engineer
+> Software Engineer / Machine Learning Engineer
 
 ----
 
+Profile Summary
+---------------
 
-Experience
-----------
+Software and machine learning engineer with the experiences in financial modeling, search engine development and recommendation engine development.
+In most cases, I led teams to accomplish the targets by sharing objectives, requirements and schedules. When assigning tasks to someone,
+I think that the most important thing is delegating ownership and responsibility to motivate them.
+
+Work Experience
+---------------
+
 2018.3-(Current)
-:   **Engineer**: AlpacaJapan, Japan
+:   **Engineer**, **Chief Engineering Manager**: AlpacaJapan, Japan
 
-* Data science for prediction of market data
-* Make the application for prediction
-* Scrum master
+* Leading model development for [AlpacaForecast](http://www.alpaca.ai/product) (Forex market prediction) using deep learning with data scientists
+* Developed trading backtesting engine "[AlpacaDB/backlight](https://github.com/AlpacaDB/backlight)" to standardize evaluation method
+* Standardize development process and team management: introduced ticketing system, scrum meeting, 1on1 and guidelines for development and communication
 
 2017.3-(Current)
 :   **Chainer Evangelist**: Preferred Networks, Japan
 
-* Increse the people who uses/develop/support "[Chainer](https://chainer.org/)".
+* Responsible for increasing people who uses "[Chainer](https://chainer.org/)"
 
-    * make speech about the deep learning and its framework "[Chainer](https://chainer.org/)".
-    * improve the document of Chainer.
-    * take hands-on for Chainer
+    * Organizing [chug](https://chainer.connpass.com/) (Chainer User Group)
+    * Holding talks about the deep learning and its framework "[Chainer](https://chainer.org/)"
+    * Improving the [documentation](https://docs.chainer.org/en/stable/) and [tutorials](https://chainer-colab-notebook.readthedocs.io/ja/latest/)
+    * Holded more than 10 hands-ons and meetups
 
-2016-2018.3
-:   **Engineer**: Science Division, Data & Science Solutions Group, Yahoo Japan Corporatoin, Japan
+2016.8-2018.3
+:   **Engineer**: Yahoo Japan Corporation, Japan
 
-* [developing inhouse search engine for advertisement destribution system](http://www.slideshare.net/techblogyahoo/webdb2015-webdbf2015) with C++, Java and Python.
-    * enhance the performance by algorithms and parallel computing s.t avx and gpu.
-* instructing agile software development such as Scrum.
-* instructing C++ cording in the team.
+* Developed inhouse search engines for the ad and media services
 
+    * [developing inhouse search engine for advertisement distribution system](http://www.slideshare.net/techblogyahoo/webdb2015-webdbf2015) with C++, Java and Python
+    * Instructed agile software development such as Scrum
+    * Instructed C++ cording in the team
 
-2014-2016
+* Led and productized inhouse recommendation engine for the media services
+
+    * Leaded a data scientist and system engineers to build new deep learning based recommendation system
+    * Responsible for satisfying requirements, architecture design and team management
+
+2014.4-2016.8
 :   **Quantitative Analyst and Model Developer**: the Bank of Tokyo Mitsubishi UFJ, Japan
 
-* developing derivatives pricing model and risk management system with C++.
+* Developed derivatives pricing model and risk management system with C++
 
 Education
 ---------
@@ -63,45 +76,41 @@ Education
 Technical Experience
 --------------------
 
+Product Management
+:   **Managed teams using following ideas**:
+
+    * Delegating ownership and responsibility
+    * 1on1
+    * Agile Methodology (Scrum/Kanban)
+    * Ticketing tools s.t. Jira, Github projects
+
 Programming Languages
-:   **first-lang**: experienced items as follows with C++
+:   **first-lang**: experienced items as follows with C++ and python
 
     * Object-Oriented Programming
     * Design of API
-    * Multi-thread pragoramming
+    * Multi-thread programming
     * C++ meta programming
+    * Functional programming
 
-:   Basic knowledge of **C++**, **Java**, **Python**, **sh/bash**, **cuda**, **Haskell**
+:   Basic knowledge of **C++**, **Python**, **Java**, **sh/bash**. And a fun of **Rust**.
 
-System Archtecture Tools
-:   Basic usage of **kvs**, **message queue** such as kafka, **search engine** such as Solr, **Restful API** with Java
-
-OS
-:   Basic usage of **CentOS**, **Ubuntu**, **Mac OS**, **Windows**
+System Archtecture
+:   Basic experience of **RDS**, **KVS**, **Message Queue**, **Search Engine**, **Restful API**
 
 Development Tools
-:   Basic knowledge of **GitHub**, **docker**, **Jenkins**, **Jira**
+:   Basic experience of **GitHub**, **Docker**, **k8s**, **ci/cd**
 
 Machine Learning Algorithms
 :   **Implementation Experience**
 
-    * linear regression, logstic regression
-    * k-NN, k-means
-    * Naive Bayes
-    * Neural Network
-    * Hidden Markov Model
+    * linear regression, logistic regression, k-NN, k-means, Hidden Markov Model
     * Deep Learning Application
-        * word2vec
-        * seq2seq
-        * recursive neural net
-        * DCGAN etc.
+        * CNN, RNN, word2vec, seq2seq, DCGAN, WaveNet, etc
 
 :   **Use Experience**
 
-    * SVM
-    * CNN
-    * RNN
-    * Ensembler s.t. lgbt, lightgbm, etc.
+    * SVM, Ensembler, Logistic Regression, etc
 
 Publication
 ----------------------------------------
@@ -110,8 +119,11 @@ Publication
 Extra Section
 ----------------------------------------
 
+* Certificates
+
+    * IPA Database Specialist
+
 * Human Languages:
 
-     * Japanese (native speaker)
-     * English (business level)
-
+    * Japanese (native speaker)
+    * English (business level)
