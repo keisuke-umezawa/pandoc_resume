@@ -22,7 +22,14 @@ I think that the most important thing is delegating ownership and responsibility
 Work Experience
 ---------------
 
-2018.3-(Current)
+2019.12-(Current)
+:   **Engineering Manager**: Mercari, Inc, Japan
+
+* CRE
+* CRM
+* CXI
+
+2018.3-2019.11
 :   **Engineer**, **Chief Engineering Manager**: AlpacaJapan, Japan
 
 * Leading model development for [AlpacaForecast](http://www.alpaca.ai/product) (Forex market prediction) using deep learning with data scientists
@@ -30,7 +37,7 @@ Work Experience
 * Standardize development process and team management: introduced ticketing system, scrum meeting, 1on1 and guidelines for development and communication
 
 2017.3-(Current)
-:   **Chainer Evangelist**: Preferred Networks, Japan
+:   **Chainer Evangelist**, **Optuna Developer**: Preferred Networks, Japan
 
 * Responsible for increasing people who uses "[Chainer](https://chainer.org/)"
 
