@@ -8,14 +8,15 @@ Keisuke Umezawa
 > Blog(ja): [Hatena Blog](http://kumechann.hatenablog.com/) \
 > Blog(en): [Medium](https://medium.com/@keisukeumezawa) \
 > GitHub: [github.com/keisuke-umezawa](https://github.com/keisuke-umezawa) \
-> Software Engineer / Machine Learning Engineer
+> Machine Learning Engineer / Engineering Manager
 
 ----
 
 Profile Summary
 ---------------
 
-Software and machine learning engineer with the experiences in financial modeling, search engine development and recommendation engine development.
+Software and machine learning engineer with the experiences in financial modeling, search engine development
+, recommendation engine and content moderation system development.
 In most cases, I led teams to accomplish the targets by sharing objectives, requirements and schedules. When assigning tasks to someone,
 I think that the most important thing is delegating ownership and responsibility to motivate them.
 
@@ -25,9 +26,18 @@ Work Experience
 2019.12-(Current)
 :   **Engineering Manager**: Mercari, Inc, Japan
 
-* CRE
-* CRM
-* CXI
+* CRE (Customer Reriability Engineering)
+
+    * Content moderation with item and user behavior information
+    * Automatic response to customer inquiries by ML
+
+* CRM (Customer Relationship Management)
+
+    * Platform for predicting customer attributes
+
+* CXI (Customer Experience Improvement)
+
+    * [Visualizing and improving retention rates for each customer experience](https://engineering.mercari.com/en/blog/entry/20200930-cc31e0724d/)
 
 2018.3-2019.11
 :   **Engineer**, **Chief Engineering Manager**: AlpacaJapan, Japan
