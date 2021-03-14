@@ -4,7 +4,7 @@ Keisuke Umezawa
 ----
 
 > Email: keisuke.umezawa[at]gmail.com \
-> Twitter: [@kumezawa_](https://twitter.com/kumezawa_) \
+> Twitter: [@kumezawa](https://twitter.com/kumezawa_) \
 > Blog(ja): [Hatena Blog](http://kumechann.hatenablog.com/) \
 > Blog(en): [Medium](https://medium.com/@keisukeumezawa) \
 > GitHub: [github.com/keisuke-umezawa](https://github.com/keisuke-umezawa) \
