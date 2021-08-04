@@ -67,7 +67,7 @@ Work Experience
 
 * Led and productized inhouse recommendation engine for the media services
 
-    * Leaded a data scientist and system engineers to build new deep learning based recommendation system
+    * Leaded a data scientist and system engineers to build new deep learning based [recommendation system](https://www.slideshare.net/techblogyahoo/yahoo-japan-115327433)
     * Responsible for satisfying requirements, architecture design and team management
 
 2014.4-2016.8
