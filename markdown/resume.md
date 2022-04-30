@@ -8,36 +8,45 @@ Keisuke Umezawa
 > Blog(ja): [Hatena Blog](http://kumechann.hatenablog.com/) \
 > Blog(en): [Medium](https://medium.com/@keisukeumezawa) \
 > GitHub: [github.com/keisuke-umezawa](https://github.com/keisuke-umezawa) \
-> Machine Learning Engineer / Engineering Manager
+> Senior Engineering Manager, Machine Learning / Head of Engineering, Customer Service Platform
 
 ----
 
 Profile Summary
 ---------------
 
-Software and machine learning engineer with the experiences in financial modeling, search engine development
-, recommendation engine and content moderation system development.
-In most cases, I led teams to accomplish the targets by sharing objectives, requirements and schedules. When assigning tasks to someone,
-I think that the most important thing is delegating ownership and responsibility to motivate them.
+I am a machine learning engineering manager who has a wide variety of experiences such as ad matching, recommendations, financial market forecasts, customer attribute prediction, chatbots, user and content moderations, etc. I have experienced management of projects and leading teams for ML in addition to hands-on experience in ML modeling, backend system design, and development. Nowadays, I also contribute to the management of strategy and organization for the customer support platform division to maximize the outcome and be accountable for the company.
 
 Work Experience
 ---------------
 
-2019.12-(Current)
-:   **Engineering Manager**: Mercari, Inc, Japan
+2022.1-(Current)
+:   **Head of Engineering, Customer Service Platform**: Mercari, Inc, Japan
 
-* CRE (Customer Reriability Engineering)
+* Organization management such as team forming, budget planning, etc.
+
+* Strategy manegement such as anual planning, quarterly planning, etc.
+
+2019.12-(Current)
+:   **Engineering Manager, Machine Learning**: Mercari, Inc, Japan
+
+* Recommendation
+
+    * Provide personalized components on the home screen
+
+* Customer Support Platform
+
+    * Automatic response to customer contacts by ML
+    * Template suggestion to reply in the contact tool
+
+* Trust and Safty
 
     * Content moderation with item and user behavior information
-    * Automatic response to customer inquiries by ML
 
-* CRM (Customer Relationship Management)
+* Marketing Automation
 
     * Platform for predicting customer attributes
 
-* CXI (Customer Experience Improvement)
-
-    * [Visualizing and improving retention rates for each customer experience](https://engineering.mercari.com/en/blog/entry/20200930-cc31e0724d/)
 
 2018.3-2019.11
 :   **Engineer**, **Chief Engineering Manager**: AlpacaJapan, Japan
@@ -78,17 +87,17 @@ Work Experience
 Education
 ---------
 
-2012-2014
-:   **MSc, Department of Mechano-Informatics**; Graduate School of Information Science and Technology, the University of Tokyo, Japan
+2012.4-2014.3
+:   **MSc, Information Science and Technology**; Graduate School of Information Science and Technology, the University of Tokyo, Japan
 
-* human motion recognition and robot motion generation by HMM
+* Human motion recognition and robot motion generation by HMM
 
 2012.5-2012.8
 :   **Internship, at Learning Algorithms and Systems Laboratory (LASA)**; 
  the Ecole Polytechnique Federale de Lausanne (EPFL), Switzerland
 
-2008-2012
-:   **BSc, Department of Mechano-Informatics**; Faculty of Engineering, the University of Tokyo, Japan
+2008.4-2012.3
+:   **BE, Department of Mechano-Informatics**; Faculty of Engineering, the University of Tokyo, Japan
 
 Technical Experience
 --------------------
@@ -96,38 +105,28 @@ Technical Experience
 Product Management
 :   **Managed teams using following ideas**:
 
-    * Delegating ownership and responsibility
-    * 1on1
+    * Writing technical specs and requirements
+    * Schedule management
     * Agile Methodology (Scrum/Kanban)
-    * Ticketing tools s.t. Jira, Github projects
+    * Ticketing tools such as Jira, Github projects
 
 Programming Languages
-:   **first-lang**: experienced items as follows with C++ and python
+:   **first-lang**: experienced items as follows with C++ and python.
 
     * Object-Oriented Programming
     * Design of API
     * Multi-thread programming
-    * C++ meta programming
-    * Functional programming
 
-:   Basic knowledge of **C++**, **Python**, **Java**, **sh/bash**. And a fun of **Rust**.
+:   In addition, basic knowledge of **Java**, **Go**.
 
 System Archtecture
 :   Basic experience of **RDS**, **KVS**, **Message Queue**, **Search Engine**, **Restful API**
 
 Development Tools
-:   Basic experience of **GitHub**, **Docker**, **k8s**, **ci/cd**
+:   Basic experience of **GitHub**, **Docker**, **k8s**, **ci/cd**, **GCP/AWS**
 
-Machine Learning Algorithms
-:   **Implementation Experience**
-
-    * linear regression, logistic regression, k-NN, k-means, Hidden Markov Model
-    * Deep Learning Application
-        * CNN, RNN, word2vec, seq2seq, DCGAN, WaveNet, etc
-
-:   **Use Experience**
-
-    * SVM, Ensembler, Logistic Regression, etc
+Machine Learning Tools
+:   Basic experience of ML libraries such as **PyTorch**, **scikit-learn**, **pandas** and etc.
 
 Publication
 ----------------------------------------
@@ -136,11 +135,11 @@ Publication
 Extra Section
 ----------------------------------------
 
-* Certificates
+* Certificates:
 
     * IPA Database Specialist
 
-* Human Languages:
+* Languages:
 
-    * Japanese (native speaker)
-    * English (business level)
+    * Japanese (native)
+    * English (CEFR - B2)
