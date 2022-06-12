@@ -15,10 +15,20 @@ Keisuke Umezawa
 Profile Summary
 ---------------
 
-I am a machine learning engineering manager who has a wide variety of experiences such as ad matching, recommendations, financial market forecasts, customer attribute prediction, chatbots, user and content moderations, etc. I have experienced management of projects and leading teams for ML in addition to hands-on experience in ML modeling, backend system design, and development. Nowadays, I also contribute to the management of strategy and organization for the customer support platform division to maximize the outcome and be accountable for the company.
+I am a machine learning engineering manager who has a wide variety of experiences such as ad matching, recommendations, financial market forecasts, customer attribute prediction, chatbots, user and content moderations, etc. I have experienced management of projects and leading teams for ML projects in addition to hands-on experience in ML modeling, backend system design, and development. Nowadays, I also contribute to the management of strategy and organization for the customer support platform division to maximize the outcome and be accountable for the company.
 
 Work Experience
 ---------------
+
+2022.6-(Current)
+:   **Head of Engineering, Trust & Safety**: Mercari, Inc, Japan
+
+* Creating a new organization from scrach
+
+* Organization management such as team forming, budget planning, etc.
+
+* Strategy manegement such as anual planning, quarterly planning, etc.
+
 
 2022.1-(Current)
 :   **Head of Engineering, Customer Service Platform**: Mercari, Inc, Japan
@@ -39,7 +49,7 @@ Work Experience
     * Automatic response to customer contacts by ML
     * Template suggestion to reply in the contact tool
 
-* Trust and Safty
+* Trust and Safety
 
     * Content moderation with item and user behavior information
 
@@ -131,6 +141,7 @@ Machine Learning Tools
 Publication
 ----------------------------------------
 * A. L. P. Ureche, K. Umezawa, Y. Nakamura and A. Billard, "Task Parameterization Using Continuous Constraints Extracted From Human Demonstrations," in IEEE Transactions on Robotics, vol. 31, no. 6, pp. 1458-1471, Dec. 2015. [link](http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7339616&isnumber=7339739) 
+* Y. Shido, H. Liu, K. Umezawa, 2022. "Textual Content Moderation in C2C Marketplace." in Proceedings of The Fifth Workshop on e-Commerce and NLP (ECNLP 5), pp. 58–62, Dublin, Ireland. Association for Computational Linguistics. [link](https://aclanthology.org/2022.ecnlp-1.8/)
 
 Extra Section
 ----------------------------------------
