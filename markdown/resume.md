@@ -5,39 +5,34 @@ Keisuke Umezawa
 
 > Email: keisuke.umezawa[at]gmail.com \
 > Twitter: [\@kumezawa_](https://twitter.com/kumezawa_) \
-> Blog(ja): [Hatena Blog](http://kumechann.hatenablog.com/) \
-> Blog(en): [Medium](https://medium.com/@keisukeumezawa) \
 > GitHub: [github.com/keisuke-umezawa](https://github.com/keisuke-umezawa) \
-> Senior Engineering Manager, Machine Learning / Head of Engineering, Customer Service Platform
+> Director of Engineering at Mercari, Inc. | Specialized in Machine Learning & Data
 
 ----
 
 Profile Summary
 ---------------
 
-I am a machine learning engineering manager who has a wide variety of experiences such as ad matching, recommendations, financial market forecasts, customer attribute prediction, chatbots, user and content moderations, etc. I have experienced management of projects and leading teams for ML projects in addition to hands-on experience in ML modeling, backend system design, and development. Nowadays, I also contribute to the management of strategy and organization for the customer support platform division to maximize the outcome and be accountable for the company.
+Dynamic Engineering Director with extensive experience in machine learning (ML), data platforms, and backend system design. Expertise in areas such as ad matching, recommendation systems, financial forecasting, and user moderation. Proven track record in both technical leadership and hands-on ML modeling. Adept at team and project management, driving strategic initiatives, and ensuring operational excellence in high-impact areas like customer support and trust & safety. Passionate about leveraging technology to maximize organizational outcomes.
 
 Work Experience
 ---------------
 
-2022.6-(Current)
-:   **Head of Engineering, Trust & Safety**: Mercari, Inc, Japan
+2024.1-
+:   **Director of Engineering / Data Platform, Customer Service, Trust and Safety**: Mercari, Inc, Japan
 
-* Creating a new organization from scrach
-
-* Organization management such as team forming, budget planning, etc.
-
-* Strategy manegement such as anual planning, quarterly planning, etc.
+* Oversee engineering teams, budget planning, and resource allocation.
+* Drive strategic planning for the customer support and trust & safety platforms.
+* Ensure scalable and secure data solutions that align with business goals.
 
 
-2022.1-(Current)
-:   **Head of Engineering, Customer Service Platform**: Mercari, Inc, Japan
+2022.1-2023.12
+:   **Head of Engineering, Customer Service Platform, Trust & Safety**: Mercari, Inc, Japan
 
-* Organization management such as team forming, budget planning, etc.
+* Oversee engineering teams, budget planning, and resource allocation.
+* Drive strategic planning for the customer support and trust & safety platforms.
 
-* Strategy manegement such as anual planning, quarterly planning, etc.
-
-2019.12-(Current)
+2019.12-2023.12
 :   **Engineering Manager, Machine Learning**: Mercari, Inc, Japan
 
 * Recommendation
@@ -57,7 +52,6 @@ Work Experience
 
     * Platform for predicting customer attributes
 
-
 2018.3-2019.11
 :   **Engineer**, **Chief Engineering Manager**: AlpacaJapan, Japan
 
@@ -65,15 +59,12 @@ Work Experience
 * Developed trading backtesting engine "[AlpacaDB/backlight](https://github.com/AlpacaDB/backlight)" to standardize evaluation method
 * Standardize development process and team management: introduced ticketing system, scrum meeting, 1on1 and guidelines for development and communication
 
-2017.3-(Current)
-:   **Chainer Evangelist**, **Optuna Developer**: Preferred Networks, Japan
+2017.3-2024.8
+:   **Parttime, Chainer Evangelist**, **Optuna Developer**: Preferred Networks, Japan
 
 * Responsible for increasing people who uses "[Chainer](https://chainer.org/)"
 
-    * Organizing [chug](https://chainer.connpass.com/) (Chainer User Group)
-    * Holding talks about the deep learning and its framework "[Chainer](https://chainer.org/)"
-    * Improving the [documentation](https://docs.chainer.org/en/stable/) and [tutorials](https://chainer-colab-notebook.readthedocs.io/ja/latest/)
-    * Holded more than 10 hands-ons and meetups
+* Implement some features in "[Optuna](https://optuna.org/)" and "[Optuna Dashboard](https://github.com/optuna/optuna-dashboard)"
 
 2016.8-2018.3
 :   **Engineer**: Yahoo Japan Corporation, Japan
@@ -91,8 +82,6 @@ Work Experience
 
 2014.4-2016.8
 :   **Quantitative Analyst and Model Developer**: the Bank of Tokyo Mitsubishi UFJ, Japan
-
-* Developed derivatives pricing model and risk management system with C++
 
 Education
 ---------
@@ -121,24 +110,20 @@ Product Management
     * Ticketing tools such as Jira, Github projects
 
 Programming Languages
-:   **first-lang**: experienced items as follows with C++ and python.
+:   **first-lang**: experienced items as follows with C++, python and Javascript/Typescript.
 
     * Object-Oriented Programming
     * Design of API
     * Multi-thread programming
 
-:   In addition, basic knowledge of **Java**, **Go**.
+System Archtecture & Development
+:  Proficient for cloud development.
 
-System Archtecture
-:   Basic experience of **RDS**, **KVS**, **Message Queue**, **Search Engine**, **Restful API**
+    * Basic experience of **RDS**, **KVS**, **Message Queue**, **Search Engine**, **Restful API**
+    * Basic experience of **GitHub**, **Docker**, **k8s**, **ci/cd**, **GCP/AWS**
+    * Basic experience of ML libraries such as **PyTorch**, **scikit-learn**, **pandas** and etc.
 
-Development Tools
-:   Basic experience of **GitHub**, **Docker**, **k8s**, **ci/cd**, **GCP/AWS**
-
-Machine Learning Tools
-:   Basic experience of ML libraries such as **PyTorch**, **scikit-learn**, **pandas** and etc.
-
-Publication
+[Publication](https://scholar.google.co.jp/citations?user=2Fpnc1QAAAAJ)
 ----------------------------------------
 * A. L. P. Ureche, K. Umezawa, Y. Nakamura and A. Billard, "Task Parameterization Using Continuous Constraints Extracted From Human Demonstrations," in IEEE Transactions on Robotics, vol. 31, no. 6, pp. 1458-1471, Dec. 2015. [link](http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7339616&isnumber=7339739) 
 * Y. Shido, H. Liu, K. Umezawa, 2022. "Textual Content Moderation in C2C Marketplace." in Proceedings of The Fifth Workshop on e-Commerce and NLP (ECNLP 5), pp. 58–62, Dublin, Ireland. Association for Computational Linguistics. [link](https://aclanthology.org/2022.ecnlp-1.8/)
