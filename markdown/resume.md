@@ -13,13 +13,23 @@ Keisuke Umezawa
 Profile Summary
 ---------------
 
-Dynamic Engineering Director with extensive experience in machine learning (ML), data platforms, and backend system design. Expertise in areas such as ad matching, recommendation systems, financial forecasting, and user moderation. Proven track record in both technical leadership and hands-on ML modeling. Adept at team and project management, driving strategic initiatives, and ensuring operational excellence in high-impact areas like customer support and trust & safety. Passionate about leveraging technology to maximize organizational outcomes.
+Engineering Director with extensive experience in machine learning (ML), data platforms, and backend system design. Expertise in areas such as ad matching, recommendation systems, financial forecasting, and user moderation. Proven track record in both technical leadership and hands-on ML modeling. Adept at team and project management, driving strategic initiatives, and ensuring operational excellence in high-impact areas like customer support and trust & safety. Passionate about leveraging technology to maximize organizational outcomes.
 
 Work Experience
 ---------------
 
 2024.1-
-:   **Director of Engineering / Data Platform, Customer Service, Trust and Safety**: Mercari, Inc, Japan
+:   **Director of Engineering**: Mercari, Inc, Japan
+
+Areas
+
+* Search & Discovery (2025/1 -)
+* AI/LLM (2025/1 -)
+* Data Platform (2024/1 -)
+* Customer Service (2024/1 - 2024/12)
+* Trust and Safety (2024/1 - 2024/12)
+
+Responsibilities
 
 * Oversee engineering teams, budget planning, and resource allocation.
 * Drive strategic planning for the customer support and trust & safety platforms.
